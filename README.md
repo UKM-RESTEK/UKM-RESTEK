@@ -16,14 +16,14 @@ Official **UKM RESTEK PLAI BMD** account.
 In this account it will be filled with offical documentations - project & product -
 research - etc.
 
-In our development, it will be including around major field:
+In our development, it will be including around field major:
 - Artificial Intelligence & Robotics
 - Cybersecurity Engineering
 - Applied Data Sciences
 
 In line with our commitment to transparency, here we include:
 - [Our Vission-Mission & Goals](https://github.com/UKM-RESTEK/Visi-Misi-Tujuan)
-- [Articles of Association and Bylaws](Coming-soon-okay?)
+- [Articles of Association and Bylaws](https://github.com/UKM-RESTEK/AD-ART)
 - [SOP for each field major](Coming-soon-okay?)
 
 ### Get Involved
