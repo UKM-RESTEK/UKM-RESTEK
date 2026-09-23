@@ -12,9 +12,9 @@
 
 ### About Us
 
-Official UKM RESTEK PLAI BMD account.
+Official **UKM RESTEK PLAI BMD** account.
 In this account it will be filled with offical documentations - project & product -
-our research - etc.
+research - etc.
 
 In our development, it will be including around major field:
 - Artificial Intelligence & Robotics
@@ -34,7 +34,5 @@ Right now, we are building a lot of amazing projects, and there are lot of oppot
 ---
 
 <div align="center">
-    Feel free to reach us: <b> 
-                                ukm_restek@plai.ac.id 
-                           </b>
+    Feel free to reach us: <b> ukm_restek@plai.ac.id </b>
 </div>
