@@ -21,8 +21,10 @@ In our development, it will be including around major field:
 - Cybersecurity Engineering
 - Applied Data Sciences
 
-In line with our commitment to transparency, we include:
+In line with our commitment to transparency, here we include:
 - [Our Vission-Mission & Goals](https://github.com/UKM-RESTEK/Visi-Misi-Tujuan)
+- [Articles of Association and Bylaws](Coming-soon-okay?)
+- [SOP for each field major](Coming-soon-okay?)
 
 ### Get Involved
 
