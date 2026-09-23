@@ -33,6 +33,8 @@ Right now, we are building a lot of amazing projects, and there are lot of oppot
 - [Explore our projects](https://github.com/UKM-RESTEK?tab=repositories)
 - [Apply to register as a member](Coming-soon-okay?)
 
+Visit [our social media](https://www.instagram.com/restek.plai/) to learn more!
+
 ---
 
 <div align="center">
